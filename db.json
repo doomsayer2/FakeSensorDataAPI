@@ -199,66 +199,6 @@
             "bagEmpty": true,
             "batteryLevel": 76.0,
             "location": "building west"
-        },
-        {
-            "dev_eui": "16mP6zLXhTTeF6Hr8nLHyEUDt5tQnKqEkg",
-            "time": "2021-03-29T20:29:53Z",
-            "digitalHallSensor_state": true,
-            "analogHallSensor_mVolt": 485,
-            "batteryLevel_mVolt": 1044,
-            "bagEmpty": false,
-            "batteryLevel": 38.0,
-            "location": "building east"
-        },
-        {
-            "dev_eui": "1Hom7FS9n2P6RiDbHHmepoyKn3TEJp1EbF",
-            "time": "2021-01-28T00:27:25Z",
-            "digitalHallSensor_state": true,
-            "analogHallSensor_mVolt": 2386,
-            "batteryLevel_mVolt": 765,
-            "bagEmpty": false,
-            "batteryLevel": 60.0,
-            "location": "main building"
-        },
-        {
-            "dev_eui": "1EmGwY57UBqLc866FaWsWjseMLikXdNwUP",
-            "time": "2020-08-07T20:06:38Z",
-            "digitalHallSensor_state": true,
-            "analogHallSensor_mVolt": 1025,
-            "batteryLevel_mVolt": 1401,
-            "bagEmpty": false,
-            "batteryLevel": 26.0,
-            "location": "building north"
-        },
-        {
-            "dev_eui": "15NKnregtDsZtNN8ooLLrzs3Ft2jU2vnaB",
-            "time": "2020-08-15T21:03:53Z",
-            "digitalHallSensor_state": false,
-            "analogHallSensor_mVolt": 1146,
-            "batteryLevel_mVolt": 1764,
-            "bagEmpty": false,
-            "batteryLevel": 75.0,
-            "location": "building west"
-        },
-        {
-            "dev_eui": "1M4az4GsGfjFP3k5LTtMGbXFtmnJC1bXC7",
-            "time": "2020-08-02T19:42:16Z",
-            "digitalHallSensor_state": false,
-            "analogHallSensor_mVolt": 1609,
-            "batteryLevel_mVolt": 1264,
-            "bagEmpty": false,
-            "batteryLevel": 52.0,
-            "location": "building west"
-        },
-        {
-            "dev_eui": "151znou1bm6xcLWayn4Z8YpfHNbreJL2oP",
-            "time": "2020-12-18T21:43:52Z",
-            "digitalHallSensor_state": true,
-            "analogHallSensor_mVolt": 595,
-            "batteryLevel_mVolt": 512,
-            "bagEmpty": false,
-            "batteryLevel": 39.0,
-            "location": "building south"
         }
     ],
     "fun" : [
