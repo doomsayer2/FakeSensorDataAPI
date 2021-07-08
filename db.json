@@ -259,16 +259,6 @@
             "bagEmpty": false,
             "batteryLevel": 39.0,
             "location": "building south"
-        },
-        {
-            "dev_eui": "167HK4jGXWuHAVpfSsLZjYNTXSqKxiEmqz",
-            "time": "2020-11-18T23:24:55Z",
-            "digitalHallSensor_state": false,
-            "analogHallSensor_mVolt": 2337,
-            "batteryLevel_mVolt": 1050,
-            "bagEmpty": true,
-            "batteryLevel": 98.0,
-            "location": "building north"
         }
     ],
     "fun" : [
