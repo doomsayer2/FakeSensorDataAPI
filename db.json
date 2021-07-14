@@ -8,7 +8,14 @@
             "batteryLevel_mVolt": 1178,
             "bagEmpty": true,
             "batteryLevel": 15.0,
-            "location": "building north"
+            "location":  {
+                "coords": {
+                    "lat": "-17.12672",
+                    "lng": "34.90272"
+                },
+                "floor": "1OG",
+                "building": "main building"
+            }
         },
         {
             "dev_eui": "17kEiTXVtUyxzXoGAhVwxSrHvd3oDfKCmm",
@@ -18,7 +25,14 @@
             "batteryLevel_mVolt": 1139,
             "bagEmpty": true,
             "batteryLevel": 92.0,
-            "location": "building east"
+            "location":  {
+                "coords": {
+                    "lat": "-0.47387",
+                    "lng": "-151.01204"
+                },
+                "floor": "1OG",
+                "building": "building east"
+            }
         },
         {
             "dev_eui": "17XFCmZqZiBLjCdA9WyiSwKowdu9tmnc3o",
@@ -28,7 +42,14 @@
             "batteryLevel_mVolt": 530,
             "bagEmpty": false,
             "batteryLevel": 86.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "21.59037",
+                    "lng": "115.59419"
+                },
+                "floor": "EG",
+                "building": "building west"
+            }
         },
         {
             "dev_eui": "1BWtWkSgoqyzLGbaErsMogx2fjMBAQjtgP",
@@ -38,7 +59,14 @@
             "batteryLevel_mVolt": 504,
             "bagEmpty": true,
             "batteryLevel": 81.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "0.80292",
+                    "lng": "59.65072"
+                },
+                "floor": "EG",
+                "building": "building west"
+            }
         },
         {
             "dev_eui": "1PEnWU9bFdC9eVKDFB5nVmjycMJxo1VoJr",
@@ -48,7 +76,14 @@
             "batteryLevel_mVolt": 864,
             "bagEmpty": false,
             "batteryLevel": 25.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "27.36094",
+                    "lng": "42.03490"
+                },
+                "floor": "EG",
+                "building": "building west"
+            }
         },
         {
             "dev_eui": "129bNBUPuUHaroaas9Vnq3oc1difRGZqt9",
@@ -58,7 +93,14 @@
             "batteryLevel_mVolt": 1436,
             "bagEmpty": true,
             "batteryLevel": 70.0,
-            "location": "building north"
+            "location":  {
+                "coords": {
+                    "lat": "59.06761",
+                    "lng": "-62.84530"
+                },
+                "floor": "2OG",
+                "building": "building south"
+            }
         },
         {
             "dev_eui": "1Poxpo6BWZcxVKuioTjiXJE1JoAZUWNSJz",
@@ -68,7 +110,14 @@
             "batteryLevel_mVolt": 970,
             "bagEmpty": true,
             "batteryLevel": 44.0,
-            "location": "building east"
+            "location":  {
+                "coords": {
+                    "lat": "12.69842",
+                    "lng": "82.86288"
+                },
+                "floor": "2OG",
+                "building": "building south"
+            }
         },
         {
             "dev_eui": "1Ly3nP6ouYpSidvin5erKYMjv3L8TEtCfz",
@@ -78,7 +127,14 @@
             "batteryLevel_mVolt": 895,
             "bagEmpty": false,
             "batteryLevel": 49.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "78.62866",
+                    "lng": "-26.62075"
+                },
+                "floor": "EG",
+                "building": "building south"
+            }
         },
         {
             "dev_eui": "1qw1zf9bP7iejttxmVC991tEqztdqDShF",
@@ -88,7 +144,14 @@
             "batteryLevel_mVolt": 1692,
             "bagEmpty": false,
             "batteryLevel": 97.0,
-            "location": "building east"
+            "location":  {
+                "coords": {
+                    "lat": "12.69842",
+                    "lng": "82.86288"
+                },
+                "floor": "2OG",
+                "building": "building east"
+            }
         },
         {
             "dev_eui": "1Mu3LxfkS98AyQDEkh4Gnu2fyPCtiQ4tY8",
@@ -98,7 +161,14 @@
             "batteryLevel_mVolt": 1259,
             "bagEmpty": true,
             "batteryLevel": 1.0,
-            "location": "main building"
+            "location":  {
+                "coords": {
+                    "lat": "78.62866",
+                    "lng": "-26.62075"
+                },
+                "floor": "EG",
+                "building": "main building"
+            }
         },
         {
             "dev_eui": "1LfrmzPFvq4oA26koaTVkgcJ53DfA3UMf2",
@@ -108,7 +178,14 @@
             "batteryLevel_mVolt": 1572,
             "bagEmpty": false,
             "batteryLevel": 63.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "59.06761",
+                    "lng": "-62.84530"
+                },
+                "floor": "1OG",
+                "building": "main building"
+            }
         },
         {
             "dev_eui": "1KNRsVvFepZeHJrREpbSeJ86mvqk3gPrpA",
@@ -118,7 +195,14 @@
             "batteryLevel_mVolt": 1464,
             "bagEmpty": false,
             "batteryLevel": 81.0,
-            "location": "building north"
+            "location":  {
+                "coords": {
+                    "lat": "21.59037",
+                    "lng": "115.59419"
+                },
+                "floor": "EG",
+                "building": "main building"
+            }
         },
         {
             "dev_eui": "1D7d8zQNoV6XayU8PxEvCC4N6GVkoNj8kr",
@@ -128,7 +212,14 @@
             "batteryLevel_mVolt": 1113,
             "bagEmpty": false,
             "batteryLevel": 13.0,
-            "location": "building east"
+            "location":  {
+                "coords": {
+                    "lat": "12.69842",
+                    "lng": "82.86288"
+                },
+                "floor": "1OG",
+                "building": "building east"
+            }
         },
         {
             "dev_eui": "19EZsDLH3xXPoSckBUaYrkRMXjs35LXi41",
@@ -138,7 +229,14 @@
             "batteryLevel_mVolt": 745,
             "bagEmpty": true,
             "batteryLevel": 95.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "78.62866",
+                    "lng": "-26.62075"
+                },
+                "floor": "1OG",
+                "building": "main west"
+            }
         },
         {
             "dev_eui": "1Hid6e5cEEm9h4byehTu77n6EHviMsXeij",
@@ -148,7 +246,14 @@
             "batteryLevel_mVolt": 1586,
             "bagEmpty": true,
             "batteryLevel": 98.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "-17.12672",
+                    "lng": "34.90272"
+                },
+                "floor": "EG",
+                "building": "building west"
+            }
         },
         {
             "dev_eui": "1C6S6vyK1cNoCJYDLTGY2ntosTPBsbEQFQ",
@@ -158,7 +263,14 @@
             "batteryLevel_mVolt": 1539,
             "bagEmpty": true,
             "batteryLevel": 22.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "12.69842",
+                    "lng": "82.86288"
+                },
+                "floor": "2OG",
+                "building": "building east"
+            }
         },
         {
             "dev_eui": "1AdxMtrF8ebaMG3wWCNnDee9VW73c6WhFg",
@@ -168,7 +280,14 @@
             "batteryLevel_mVolt": 1101,
             "bagEmpty": true,
             "batteryLevel": 46.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "-0.47387",
+                    "lng": "-151.01204"
+                },
+                "floor": "EG",
+                "building": "building south"
+            }
         },
         {
             "dev_eui": "1QBYXWJ91jChak5qVRwqKzB5UitukY8w1G",
@@ -178,7 +297,14 @@
             "batteryLevel_mVolt": 858,
             "bagEmpty": true,
             "batteryLevel": 62.0,
-            "location": "building north"
+            "location":  {
+                "coords": {
+                    "lat": "21.59037",
+                    "lng": "115.59419"
+                },
+                "floor": "2OG",
+                "building": "main building"
+            }
         },
         {
             "dev_eui": "1EKhGbk3Fb2C2TWSe9YFCnsDhZgoVeY8Sp",
@@ -188,7 +314,14 @@
             "batteryLevel_mVolt": 1472,
             "bagEmpty": true,
             "batteryLevel": 62.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "27.36094",
+                    "lng": "42.03490"
+                },
+                "floor": "2OG",
+                "building": "main building"
+            }
         },
         {
             "dev_eui": "1QJV7msp47X6FUz1nzaG4LJmLasa6nxyZJ",
@@ -198,7 +331,14 @@
             "batteryLevel_mVolt": 941,
             "bagEmpty": true,
             "batteryLevel": 76.0,
-            "location": "building west"
+            "location":  {
+                "coords": {
+                    "lat": "21.59037",
+                    "lng": "115.59419"
+                },
+                "floor": "EG",
+                "building": "main building"
+            }
         }
     ],
     "fun" : [
