@@ -289,57 +289,6 @@
                 "building": "building south"
             }
         },
-        {
-            "dev_eui": "1QBYXWJ91jChak5qVRwqKzB5UitukY8w1G",
-            "time": "2021-01-15T22:03:03Z",
-            "digitalHallSensor_state": false,
-            "analogHallSensor_mVolt": 1730,
-            "batteryLevel_mVolt": 858,
-            "bagEmpty": true,
-            "batteryLevel": 62.0,
-            "location":  {
-                "coords": {
-                    "lat": "21.59037",
-                    "lng": "115.59419"
-                },
-                "floor": "2OG",
-                "building": "main building"
-            }
-        },
-        {
-            "dev_eui": "1EKhGbk3Fb2C2TWSe9YFCnsDhZgoVeY8Sp",
-            "time": "2020-08-09T23:37:23Z",
-            "digitalHallSensor_state": false,
-            "analogHallSensor_mVolt": 1511,
-            "batteryLevel_mVolt": 1472,
-            "bagEmpty": true,
-            "batteryLevel": 62.0,
-            "location":  {
-                "coords": {
-                    "lat": "27.36094",
-                    "lng": "42.03490"
-                },
-                "floor": "2OG",
-                "building": "main building"
-            }
-        },
-        {
-            "dev_eui": "1QJV7msp47X6FUz1nzaG4LJmLasa6nxyZJ",
-            "time": "2021-01-03T23:56:16Z",
-            "digitalHallSensor_state": true,
-            "analogHallSensor_mVolt": 554,
-            "batteryLevel_mVolt": 941,
-            "bagEmpty": true,
-            "batteryLevel": 76.0,
-            "location":  {
-                "coords": {
-                    "lat": "21.59037",
-                    "lng": "115.59419"
-                },
-                "floor": "EG",
-                "building": "main building"
-            }
-        }
     ],
     "fun" : [
         {
